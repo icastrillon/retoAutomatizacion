@@ -1,0 +1,11 @@
+{
+    "primerArticulo": {
+        "nombre": "MacBook",
+        "precio":602.00
+        
+    },
+    "segundoArticulo": {
+        "nombre": "iPhone",
+        "precio":123.20
+    }
+}
