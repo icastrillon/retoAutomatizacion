@@ -15,7 +15,7 @@ Precondición:
 
     1. Clona el Proyecto:
 
-    git clone https://github.com/upex-galaxy/cypress-template-gx.git
+    git clone https://github.com/icastrillon/retoAutomatizacion
 
 
    2. Instala todas las dependencias del proyecto (incluyendo Cypress) con yarn:
